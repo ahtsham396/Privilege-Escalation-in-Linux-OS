@@ -17,7 +17,7 @@ With the help of above exploitable Linux permission, in this paper we are perfor
 
 <h2>Environments Used </h2>
 
-- <b>Kali Linux</b> (21H2)
+- <b>Kali Linux</b>
 
 
 <!--
